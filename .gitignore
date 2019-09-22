@@ -1,0 +1,16 @@
+*.gem
+*.rbc
+/.config
+/coverage
+/pkg
+/spec/reports
+/spec/examples.txt
+/test/tmp
+/test/version_tmp
+/tmp
+
+/.bundle
+/vendor/bundle
+/lib/bundler/man
+
+Gemfile.lock
